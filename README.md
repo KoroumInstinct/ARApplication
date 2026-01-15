@@ -1,2 +1,4 @@
 # ARApplication
 Augmented Reality application for android devices where the user can play two multiplayer games (1v1), play with his/her digital dog and put a post-it on his/her fridge.
+
+This is my thesis project. An app developed in Unity with C# and Augmented Reality technologies. It is about an app where created for use inside a home or a place in general. The user can interact with the place looking for a flat surface in order to place a dog and interact with it, touch it, feed it and giving it the order to sit down and stand up. Also the user can find a specific image that represents a QR code. With it he/she can place a post-it with a message on the image. Furthermore, the user can play two different multiplayer games with a friend, SpinnerTop and Hockey. I use Photon for the server purposes. The dog's and the SpinnerTop's assets are someone else's creation. In the link you can find the drive where my whole app and the apk is.
